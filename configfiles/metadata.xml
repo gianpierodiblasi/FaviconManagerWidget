@@ -4,7 +4,7 @@
     <ExtensionPackage 
       name="FaviconManagerWidget"
       packageVersion="1.2.1"
-      vendor="Accenture Italy - Industry X"
+      vendor="Gianpiero Di Blasi"
       description="Extension to manage browser favicon"
       minimumThingWorxVersion="8.3.0"
       dependsOn=""> 
